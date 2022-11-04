@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ishara
 #### I am a web developer 
-![alt text]([http://url/to/img.png](https://github.com/isharaLiyanage/isharaLiyanage/blob/b075ef8b6c8189562b5a3f4091c8045e46da7882/git.jpg))
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/isharaLiyanage/isharaLiyanage/b075ef8b6c8189562b5a3f4091c8045e46da7882/git.jpg))
 ![I am a web developer ](<img src='https://raw.githubusercontent.com/isharaLiyanage/isharaLiyanage/b075ef8b6c8189562b5a3f4091c8045e46da7882/git.jpg' alt='website' height='200'>)
 
  I do content on Design and Development. I really enjoy learning languages and frameworks like React and Laravel, as well as working in Ghost (cms).
