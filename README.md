@@ -6,7 +6,7 @@
 
 Skills: REACT / NEXT / LARAVEL / PHP / JS / HTML / CSS
 
-- 🌱 I’m currently learning  to develop custom WordPress custom themes  
+- 🌱 I’m currently learning  to develop custom WordPress themes  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://isharadulanjaya.000webhostapp.com/)  
